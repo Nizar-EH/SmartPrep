@@ -1,0 +1,9 @@
+PyQt6
+google-genai
+matplotlib
+
+pypdf
+
+pytesseract
+pillow
+pdf2image
