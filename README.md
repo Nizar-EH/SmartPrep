@@ -1,6 +1,6 @@
 # SchoolAI
 
-Application de bureau (PyQt6) qui utilise l'IA (Google Gemini, gratuit)
+Un projet d''été qui est une application de bureau (PyQt6) utilisant l'IA (Google Gemini, gratuit)
 pour t'aider dans tout ce qui est scolaire. Toutes les données restent en
 local sur ta machine, dans `~/.schoolai/`.
 
