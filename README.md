@@ -33,11 +33,11 @@ chaque machine a sa propre base locale.
 
 ## Fonctionnalités
 
-### 🏠 Accueil
+### Accueil
 Tableau de bord : évaluations à venir, matières à renforcer (d'après les
 moyennes), et activité récente.
 
-### 🎓 Suivi examen (nouveau)
+### Suivi examen 
 Suivi spécialisé pour 3e (Brevet), 1ère (épreuves anticipées du Bac :
 français + maths) et Terminale (Bac + Grand Oral) :
 - **Détection automatique** du parcours à partir de ta classe (modifiable
@@ -55,8 +55,8 @@ français + maths) et Terminale (Bac + Grand Oral) :
 ### Emploi du temps interactif
 - Ajoute une entrée à chaque heure de cours pour "nourrir" l'IA.
 - **Emploi du temps type** : définis un modèle hebdomadaire réutilisable
-  (bouton "⚙️ Gérer l'emploi du temps type"), puis applique-le en un clic à
-  n'importe quel jour ("📥 Appliquer le modèle à ce jour").
+  (bouton "Gérer l'emploi du temps type"), puis applique-le en un clic à
+  n'importe quel jour ("Appliquer le modèle à ce jour").
 - **Dupliquer hier** : recopie la structure (heures + matières) du jour
   précédent, pour compléter juste le contenu.
 - **Vue semaine** : calendrier hebdomadaire cliquable.
